@@ -1,7 +1,7 @@
 # GiocoPlatform
 a videogame made with sfml in C++
 
-#How to start the server for multiplayer
+<h3>How to start the server for multiplayer</h3>
 
 <ol>
   <li>Download the file serverVideoGame.py</li>
