@@ -1,0 +1,9 @@
+﻿  Multiplayer.cpp
+C:\Users\edoar\GiocoPlatform\MovingPlatform.h(42,34): warning C4244: 'return': conversione da 'float' a 'int'. Possibile perdita di dati.
+  Generazione codice in corso...
+C:\Users\edoar\GiocoPlatform\Multiplayer.cpp(220): warning C4172: verrà restituito l'indirizzo del valore : ciao temporaneo o della variabile locale
+  2 of 619 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  GiocoPlatform.vcxproj -> C:\Users\edoar\GiocoPlatform\x64\Release\GiocoPlatform.exe
